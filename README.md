@@ -10,10 +10,10 @@ Using the code in the repo, we would like you to refactor it to deliver the foll
 
 Share your work:
 
-- Set up a repository on Github or BitBucket to host your code so we can pull down the code from there.
+- Set up a public repository on Git (Ideally Github or BitBucket but can be any we can access) to host your code so we can pull down the code from there.
 - Please share any development/set up notes in a README.md
 
 Last bit of advice:
-Feel free completely tear the whole code/solution apart. Don't feel like you can't edit any of it :). Any questions about the test please do not hesitate to contact joe.fradley@assetinsights.co.uk
+Feel free to completely tear the whole code/solution apart. Don't feel like you can't edit any of it :). Any questions about the test please do not hesitate to contact joe.fradley@assetinsights.co.uk
 
 Good Luck!
