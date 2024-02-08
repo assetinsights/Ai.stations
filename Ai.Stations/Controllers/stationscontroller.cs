@@ -45,8 +45,8 @@ namespace Ai.Stations.Controllers
         }
 
         [HttpGet]
-        [Route("api/station/{?stationName}")]
-        public ActionResult<string> GetStation(string stationName)
+        [Route("api/station")]
+        public ActionResult<string> GetStation()
         {
             var stations = new StationsService();
             var one = stations.getStationbytitle(string.Empty);
